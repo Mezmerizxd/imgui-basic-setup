@@ -1,0 +1,8 @@
+.vs
+bin
+
+src/imgui.ini
+*.vcxproj
+imgui-basic-setup/imgui-basic-setup.vcxproj.filters
+imgui-basic-setup/imgui-basic-setup.vcxproj.user
+imgui-basic-setup.sln
