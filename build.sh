@@ -1,7 +1,7 @@
 #!/bin/bash
 
 build=$1
-FILE=imgui-test.sln
+FILE=imgui-basic-setup.sln
 
 function BuildSource {
   echo "Compiling source..."
